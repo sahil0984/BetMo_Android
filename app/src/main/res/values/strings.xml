@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BetMo</string>
+    <!--Facebook app id-->
+    <string name="app_id">1538094093091604</string>
+
+    <!--Tab Bar strings-->
+    <string name="home_tab_label">Home</string>
+    <string name="discover_tab_label">Discover</string>
+    <string name="new_bet_tab_label">New Bet</string>
+    <string name="requests_tab_label">Requests</string>
+    <string name="profile_tab_label">Me</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
